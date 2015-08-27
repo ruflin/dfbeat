@@ -1,0 +1,48 @@
+{
+	"ImportPath": "github.com/elastic/dfbeat",
+	"GoVersion": "go1.5",
+	"Deps": [
+		{
+			"ImportPath": "github.com/elastic/gosigar",
+			"Comment": "scotty_09012012-32-gf47632d",
+			"Rev": "f47632d46ef1dcf8020ae3caf38ffb5ffe8f9ab3"
+		},
+		{
+			"ImportPath": "github.com/elastic/libbeat/common",
+			"Rev": "0567a725208dca3f98b65219dafedda822d86ba0"
+		},
+		{
+			"ImportPath": "github.com/elastic/libbeat/logp",
+			"Rev": "0567a725208dca3f98b65219dafedda822d86ba0"
+		},
+		{
+			"ImportPath": "github.com/elastic/libbeat/outputs",
+			"Rev": "0567a725208dca3f98b65219dafedda822d86ba0"
+		},
+		{
+			"ImportPath": "github.com/elastic/libbeat/publisher",
+			"Rev": "0567a725208dca3f98b65219dafedda822d86ba0"
+		},
+		{
+			"ImportPath": "github.com/elastic/libbeat/service",
+			"Rev": "0567a725208dca3f98b65219dafedda822d86ba0"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Rev": "9d4db5d1dbeff473d50e1bb82f5405c8cca0f0ac"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Rev": "9d4db5d1dbeff473d50e1bb82f5405c8cca0f0ac"
+		},
+		{
+			"ImportPath": "github.com/nranchev/go-libGeoIP",
+			"Rev": "c78e8bd2dd3599feb21fd30886043979e82fe948"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Comment": "v1.0-21-gf552045",
+			"Rev": "f5520455607c0233cb6d7b056f71b22c1d265ef1"
+		}
+	]
+}
